@@ -2,4 +2,4 @@
 Learn from youtube
 
 
-* you can compress the image without lossing the quality..
+* you can compress the image without losing the quality..
